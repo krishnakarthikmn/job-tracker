@@ -19,7 +19,7 @@ python3 tracker.py
 | `f` | Filter by status |
 | `d` | Delete an entry |
 | `q` | Quit |
-| Enter | List all applications |
+| `l` / Enter | List all applications |
 
 ## Statuses
 
